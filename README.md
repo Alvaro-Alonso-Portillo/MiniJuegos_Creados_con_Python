@@ -23,6 +23,7 @@ Si algún juego requiere dependencias adicionales, puedes instalarlas con pip:
 
 ```bash
 pip install -r requirements.txt
+```
 
 .
 
